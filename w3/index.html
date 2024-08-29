@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Fish Game</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>₊ . ⋆ ⁺ Go Fish ⁺ ⋆ . ₊</h1>
+        <div id="game-info"></div>
+        <div id="player1-hand" class="hand"></div>
+        <button id="go-fish-btn" class="button" onclick="goFish()" disabled>Go Fish</button>
+        <div id="player2-hand" class="hand"></div>
+        <button id="next-turn-btn" class="button" onclick="nextTurn()">Next Turn</button>
+    </div>
+    <script src="gofish.js"></script>
+</body>
+</html>
