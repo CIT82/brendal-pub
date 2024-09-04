@@ -1,0 +1,46 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("pinkwater.jpg");
+}
+
+section {
+    border-radius: 7px;
+    background-color: rgba(255, 87, 177, 0.458);
+    margin: 30px;
+    padding: 5px;
+
+}
+
+img {
+    border-radius: 20px;
+    border: aqua dashed 6px;
+}
+h1 {
+    margin: 30px;
+    padding: 15px;
+    background-color: aqua;
+    border-radius: 40px;
+    padding: 20px;
+    border: rgb(251, 105, 185) double 15px;
+}
+
+input {
+    border-radius: 6px;
+    background-color: rgba(72, 245, 245, 0.632);
+    border: 0;
+}
+
+textarea {
+    border-radius: 6px;
+    background-color: rgba(48, 244, 244, 0.627);
+    border: 0;
+}
+
+button {
+    border-radius: 8px;
+    border: rgb(9, 240, 240) outset 3px;
+    background-color: aqua;
+}
