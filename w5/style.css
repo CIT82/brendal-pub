@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(99, 204, 204);
+    padding: 20px;
+    color: rgb(8, 97, 97);
+    border: 5px outset rgb(130, 232, 232);
+}
+
+body {
+    text-align: center;
+    font-family: "corben";
+    background-image: url("/images/bluewater.jpg");
+    
+}
+
+section {
+    background-color: rgba(220, 249, 253, 0.664);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px 40px;
+}
+
+footer {
+    background-color: rgb(119, 206, 206);
+    border-top: 5px dashed rgb(45, 112, 119);
+    padding: 5px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.corben-regular {
+    font-family: "Corben", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.corben-bold {
+    font-family: "Corben", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
