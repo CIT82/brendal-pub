@@ -229,7 +229,13 @@ h6,
 /*** Hero Header ***/
 .hero-header,
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.05)), url(../img/hero-img.jpg);
+    background: linear-gradient(rgba(232, 125, 175, 0.5), rgba(0, 0, 0, 0.05)), url(../img/1997-shecamebackforus.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header2 {
+    background: linear-gradient(rgba(232, 125, 175, 0.5), rgba(0, 0, 0, 0.05)), url(../img/helpme!.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -237,12 +243,12 @@ h6,
 /*** Hero Header ***/
 
 
-/*** About Start ***/
+/*** Info Start ***/
 .video {
     position: relative;
     height: 100%;
     min-height: 400px;
-    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../img/about.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../img/hacker.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -360,12 +366,12 @@ h6,
 }
 
 .about {
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/background.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/pinkbricks.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-/*** About End ***/
+/*** Info End ***/
 
 
 /*** service Start ***/
@@ -659,7 +665,7 @@ h6,
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, 1)), url(../img/background.jpg);
+    background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, 1)), url(../img/pinkbricks.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;

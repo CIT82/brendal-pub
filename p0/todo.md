@@ -1,18 +1,17 @@
-- [ ] Update title
-- [ ] update website name
-- [ ] change pink navbar completely
-- [ ] change white navbar tab names
-- [ ] change main home page picture
-- [ ] update main home section buttons and location
-- [ ] change h1 front page banner
-- [ ] change about us title 
-- [ ] change about us container background image
-- [ ] replace about us video to image
-- [ ] change all section headings from h1 to h2
+- [x] Update title
+- [x] update website name
+- [x] change pink navbar completely
+- [x] change white navbar tab names
+- [x] change main home page picture
+- [x] update main home section buttons and location
+- [x] change h1 front page banner
+- [x] change about us title 
+- [x] change about us container background image
+- [x] replace about us video to image
+- [x] change all section headings from h1 to h2
 - [ ] replace all <p> text
 - [ ] update what we do section cards and info
 - [ ] change our programs section cards and info
-- [ ] change color of page pink to lighter pink
 - [ ] change items color in the style stylesheet
 - [ ] Add in new section for info 
 - [ ] replace our events card pictures
@@ -22,4 +21,4 @@
 - [ ] change blog section info and card pics
 - [ ] move our team section to different page
 - [ ] change/add testimonials in carousel
-- [ ] change image in footer
+- [x] change image in footer
