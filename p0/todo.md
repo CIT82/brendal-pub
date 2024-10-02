@@ -9,16 +9,24 @@
 - [x] change about us container background image
 - [x] replace about us video to image
 - [x] change all section headings from h1 to h2
-- [ ] replace all <p> text
-- [ ] update what we do section cards and info
-- [ ] change our programs section cards and info
-- [ ] change items color in the style stylesheet
-- [ ] Add in new section for info 
-- [ ] replace our events card pictures
-- [ ] change our events name
-- [ ] change info in our events cards
-- [ ] delete/move blog section 
-- [ ] change blog section info and card pics
-- [ ] move our team section to different page
-- [ ] change/add testimonials in carousel
+- [x] replace all <p> text
+- [x] Add in new section for info 
+- [x] replace our events card pictures
+- [x] change our events name
+- [x] delete/move blog section 
+- [x] change/add testimonials in carousel
 - [x] change image in footer
+
+
+New To Do
+
+- [ ] Chat logs page needs to be completed
+- [ ] chat logs need to be created
+- [ ] Lily's letter to mom needs to be completed
+- [ ] letter to mom needs to be created
+- [ ] friends of lily page needs to be completed
+- [ ] information for page needs to be created
+- [ ] Mental health page needs to be completed
+- [ ] Mental health analysis needs to be created 
+- [ ] Help page needs to be completed 
+- [ ] Help page needs to be inverted
