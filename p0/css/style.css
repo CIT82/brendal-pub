@@ -708,3 +708,7 @@ h6,
     color: var(--bs-secondary) !important;
 }
 /*** Footer End ***/
+
+.background {
+    background: url(../img/hackerimage.jpg);
+}
